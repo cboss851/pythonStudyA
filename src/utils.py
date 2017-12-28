@@ -7,4 +7,4 @@ def hideName(name):
         return "**"+name[-2:]
 
 
-# print(hideName("xxx"))
+print(hideName("xxx"))
